@@ -8,7 +8,7 @@ fun emptyFunction() {
 }
 
 fun buggyFunction(str: String){
-  if (str == "hello"){
+  if (str == "hello DJ"){
     println("Hello!")
   } else if (str == "goodbye"){
     println("Goodbye!")
